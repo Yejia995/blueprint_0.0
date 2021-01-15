@@ -1,2 +1,2 @@
-# blueprint_0.0
-plueprint正式版
+# BluePrint Appearance Packages
+BluePrint 暂未应用的包装内容
